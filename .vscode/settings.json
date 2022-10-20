@@ -1,0 +1,5 @@
+{
+	"testing.automaticallyOpenPeekView": "never",
+	"debug.allowBreakpointsEverywhere": true,
+  "workbench.colorTheme": "Imba Dark"
+}
